@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Lightweight terminal-native IDE built with Rust and ratatui",
     "homepage": "https://github.com/tgeorge06/lazyide",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tgeorge06/lazyide/releases/download/v0.2.1/lazyide-windows-x86_64.tar.gz",
-            "hash": "1ab6640ae99b95963d6f0ee32a3d95446ce6dab3902af2de5f38eca3baffe678"
+            "url": "https://github.com/tgeorge06/lazyide/releases/download/v0.2.2/lazyide-windows-x86_64.tar.gz",
+            "hash": "ae7f45c9e9dc48b6974763eb9dbd728f4279f686c2a169346c145f005337c90d"
         }
     },
     "bin": "lazyide.exe",
